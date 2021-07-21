@@ -21,7 +21,7 @@ Skills demonstrated:
 
 ## [Project 3: Natural language processing for 2020 US election prediction](https://github.com/tiawei/tiawei.github.io/blob/main/Project_3/wei_NLP_for_2020_US_election_prediction.ipynb)
 
-Skills demonstracted:
+Skills demonstrated:
 - Text data cleaning and processing
 - Feature engineering (Bag-of-words, TF-IDF, etc.)
 - Multiple classification algorithms (logistic regression, k-NN, Naive
