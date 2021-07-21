@@ -1,6 +1,12 @@
+Hsi Tiana Wei
+
+
+
 # My programming experience in Python
 
-This repository includes multiple projects I have worked on for a data science course (MIE1624) provided by the Mechanical and Industrial Engineering Department at University of Toronto.
+This website showcase multiple projects I have worked on for a data science course (MIE1624) provided by the Mechanical and Industrial Engineering Department at University of Toronto.
+
+Each project demonstrates a list of corresponding skills and links to a Python notebook detailing each step of the analysis.
 
 ## [Project 1: Kaggle ML & DS Survey Challenge - 1](https://github.com/tiawei/tiawei.github.io/blob/main/Project_1/wei_Kaggle%20ML%26DS%20Survey%20Challenge_1.ipynb)
 Dataset reference: <https://www.kaggle.com/c/kaggle-survey-2019/data>
