@@ -1,4 +1,9 @@
 # Hsi Tiana Wei
+
+PhD student, Psychology department, University of Toronto
+
+Email: tiana.wei@mail.utoronto.ca
+
 <img src="https://raw.githubusercontent.com/tiawei/Hsi_Tiana_Wei/main/images/TWei.jpg" width="400">
 
 
