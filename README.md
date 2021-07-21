@@ -1,4 +1,6 @@
-Hsi Tiana Wei
+# Hsi Tiana Wei
+![pic](https://github.com/tiawei/Hsi_Tiana_Wei/blob/main/images/TWei.JPG)
+
 
 
 
