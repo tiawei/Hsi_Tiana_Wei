@@ -1,5 +1,5 @@
 # Hsi Tiana Wei
-![pic](https://github.com/tiawei/Hsi_Tiana_Wei/blob/main/images/TWei.JPG?v=4&s=100)
+<img src="https://github.com/tiawei/Hsi_Tiana_Wei/blob/main/images/TWei.JPG" width="48">
 
 
 
