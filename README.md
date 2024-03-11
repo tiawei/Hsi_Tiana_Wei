@@ -7,20 +7,32 @@ Email: tiana.wei@mail.utoronto.ca; twei@research.baycrest.org
 <img src="https://raw.githubusercontent.com/tiawei/Hsi_Tiana_Wei/main/images/TWei.jpg" width="300">
 
 
+# Independent research projects in R
+
+### The peer-reviewed publications and their corresponding R scripts
+
+## [Picture-Word Interference Effects Are Robust With Covert Retrieval, With and Without Gamification](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.825020/full)
+
+[My R scripts published on Open Science Framework](https://osf.io/k6ndp/)
+
+## [Cognitive components of aging-related increase in word-finding difficulty](https://www.tandfonline.com/doi/full/10.1080/13825585.2024.2315774)
+
+[My R scripts published on Open Science Framework](https://osf.io/yc7jm/?view_only=40bbaf6d13314b0dbee81ce41b0aa757)
 
 
-# Programming skills in Python
+
+# Independent projects in Python
 
 The corresponding skills demonstrated in each project are listed below. The project titles are linked to the Python notebooks detailing the coding process.
 
-## [Project 1: Kaggle ML & DS Survey Challenge - 1](https://github.com/tiawei/tiawei.github.io/blob/main/Project_1/wei_Kaggle%20ML%26DS%20Survey%20Challenge_1.ipynb)
+## [Project 1: ML & DS Survey Challenge - 1](https://github.com/tiawei/tiawei.github.io/blob/main/Project_1/wei_Kaggle%20ML%26DS%20Survey%20Challenge_1.ipynb)
 
 Skills demonstrated:
 - Data cleaning and wrangling
 - Basic statistical analysis
 - Data visualization
 
-## [Project 2: Kaggle ML & DS Survey Challenge - 2](https://github.com/tiawei/tiawei.github.io/blob/main/Project_2/wei_Kaggle%20ML%26DS%20Survey%20Challenge_2.ipynb)
+## [Project 2: ML & DS Survey Challenge - 2](https://github.com/tiawei/tiawei.github.io/blob/main/Project_2/wei_Kaggle%20ML%26DS%20Survey%20Challenge_2.ipynb)
 
 Skills demonstrated:
 - Data cleaning (handle missing data, data encoding, etc.)
