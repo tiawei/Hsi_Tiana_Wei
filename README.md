@@ -1,6 +1,6 @@
 # Hsi Tiana Wei
 
-PhD Candidate, Psychology Department, University of Toronto
+PhD Candidate, Psychology Department, with Collaborative Specialization in Psychology and Engineering, University of Toronto
 
 Email: tiana.wei@mail.utoronto.ca; twei@research.baycrest.org
 
