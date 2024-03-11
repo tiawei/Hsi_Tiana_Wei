@@ -9,15 +9,15 @@ Email: tiana.wei@mail.utoronto.ca; twei@research.baycrest.org
 
 # Independent research projects in R
 
-### The peer-reviewed publications and their corresponding R scripts
+The peer-reviewed publications and their corresponding R scripts
 
 ## [Picture-Word Interference Effects Are Robust With Covert Retrieval, With and Without Gamification](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.825020/full)
 
-[My R scripts published on Open Science Framework](https://osf.io/k6ndp/)
+- [My R scripts published on Open Science Framework](https://osf.io/k6ndp/)
 
 ## [Cognitive components of aging-related increase in word-finding difficulty](https://www.tandfonline.com/doi/full/10.1080/13825585.2024.2315774)
 
-[My R scripts published on Open Science Framework](https://osf.io/yc7jm/?view_only=40bbaf6d13314b0dbee81ce41b0aa757)
+- [My R scripts published on Open Science Framework](https://osf.io/yc7jm/?view_only=40bbaf6d13314b0dbee81ce41b0aa757)
 
 
 
